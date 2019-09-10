@@ -8,5 +8,6 @@ All the hooks are inside CustomHooks folder.
 - [useForm](./CustomHooks/useForm.js): this hook can handle input change and form submission
 - [useLocalStorage](./CustomHooks/useLocalStorage.js): can be used with other hooks
 - [useMusicPlayer](./CustomHooks/useMusicPlayer.js)
+- [useAxios](./CustomHooks/useAxios.js): this hook works together with useLocalStorage hook and axios for data fetching
 
 
