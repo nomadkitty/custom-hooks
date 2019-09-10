@@ -1,4 +1,4 @@
-// This hook need to work together with useLocalStorage hook
+// This hook works together with useLocalStorage hook
 
 import { useLocalStorage } from "./useLocalStorage";
 
