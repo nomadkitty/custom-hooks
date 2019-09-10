@@ -1,4 +1,4 @@
-// This hook use React Context API, line 4 and line 7 can be changed to any name and path 
+// This hook uses React Context API, line 4 and line 7 can be changed to any name and path 
 // below is the initial state object
 // const [state, setState] = useState({
 //   audioPlayer: new Audio(),
