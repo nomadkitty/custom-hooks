@@ -43,49 +43,49 @@ const Navbar = () => {
 export default Navbar;
 
 // Below is the CSS relating to this hook
-// .navbar {
-//   align-items: center;
-//   border-bottom: 1px solid rgb(221, 221, 221);
-//   display: flex;
-//   height: 70px;
-//   justify-content: space-between;
-//   padding: 0 3%;
-//   margin: 0 auto;
-//   width: 92%;
-//   -webkit-box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
-//   -moz-box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
-//   box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
-// }
+.navbar {
+  align-items: center;
+  border-bottom: 1px solid rgb(221, 221, 221);
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  padding: 0 3%;
+  margin: 0 auto;
+  width: 92%;
+  -webkit-box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
+  -moz-box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
+  box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
+}
 
-// .dark-mode {
-//   color: #fff;
-//   background-color: #313843;
+.dark-mode {
+  color: #fff;
+  background-color: #313843;
 
-//   .navbar {
-//     background-color: #1F2022;
-//     border: none;
-//   }
-// }
+  .navbar {
+    background-color: #1F2022;
+    border: none;
+  }
+}
 
-// .dark-mode__toggle {
-//   background: papayawhip;
-//   border-radius: 50px;
-//   border: 1px solid black;
-//   height: 20px;
-//   position: relative;
-//   width: 40px;
-// }
+.dark-mode__toggle {
+  background: papayawhip;
+  border-radius: 50px;
+  border: 1px solid black;
+  height: 20px;
+  position: relative;
+  width: 40px;
+}
 
-// .toggle {
-//   background: #f68819;
-//   border-radius: 50px;
-//   height: 20px;
-//   left: 0;
-//   position: absolute;
-//   transition: 0.2s;
-//   width: 20px;
-// }
+.toggle {
+  background: #f68819;
+  border-radius: 50px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  transition: 0.2s;
+  width: 20px;
+}
 
-// .toggled {
-//   left: 18px;
-// }
+.toggled {
+  left: 18px;
+}
