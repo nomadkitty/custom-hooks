@@ -11,3 +11,11 @@ All the hooks are inside CustomHooks folder.
 - [useAxios](./CustomHooks/useAxios.js): this hook works together with useLocalStorage hook and axios for data fetching
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+#### Made with ❤️ by [Jojo Zhang](https://github.com/nomadkitty)
+
+
+
